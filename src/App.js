@@ -3,7 +3,6 @@ import { useEffect } from 'react';
 import MovieCard from './MovieCard';
 import './App.css';
 import SearchIcon from './search.svg';
-//60fe881b
 const API_URL='http://www.omdbapi.com?apikey=60fe881b';
 const App=()=>{
 
